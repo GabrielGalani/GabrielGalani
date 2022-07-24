@@ -33,13 +33,13 @@
 
 - 🔭 Estou aberto a oportunidades de emprego **https://www.linkedin.com/in/gabriel-galani-303697158/**
 
-- 🌱 Estou aprendendo **Python, Sql and Machine Learning**
+- 🌱 Estou aprendendo **Python, Sql e Machine Learning**
 
 - 📚 Você pode encontrar todas as minhas certificações aqui: **https://www.linkedin.com/in/gabriel-galani-303697158/details/certifications/**
 
 - 🏫 Atualmente estudo na Instituição **Alura**
 
-- 💬 Me pergunte sobre **Power BI, Python, Sql, Excel and Data Science**
+- 💬 Me pergunte sobre **Power BI, Python, Sql, Excel e Data Science**
 
 - 📫 Você pode me contatar através do e-mail **gabrielgalaniipt@gmail.com**
 
