@@ -7,7 +7,7 @@
 
 - 📚 All my certifications you can find here **https://www.linkedin.com/in/gabriel-galani-303697158/details/certifications/**
 
-- 🏫 Currently I'm studying at the Institution **Alura**
+- 🏫 Currently I'm studying at the Institution **Alura** and **Impacta**
 
 - 💬 Ask me about **Power BI, Python, Sql, Excel and Data Science**
 
@@ -37,7 +37,7 @@
 
 - 📚 Você pode encontrar todas as minhas certificações aqui: **https://www.linkedin.com/in/gabriel-galani-303697158/details/certifications/**
 
-- 🏫 Atualmente estudo na Instituição **Alura**
+- 🏫 Atualmente estudo na Instituição **Alura** e **Faculdade Impacta**
 
 - 💬 Me pergunte sobre **Power BI, Python, Sql, Excel e Data Science**
 
