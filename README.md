@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Galani</h1>
 <h3 align="center">Passionate about engineering and data science</h3>
 
-- 🔭 I am currently open to job opportunities **https://www.linkedin.com/in/gabriel-galani-303697158/**
+- 🔭 I currently work in the data area at Atos Brasil. **https://www.linkedin.com/in/gabriel-galani-303697158/**
 
 - 🌱 I’m currently learning **Python, Sql and Machine Learning**
 
@@ -31,7 +31,7 @@
 <h1 align="center">Olá 👋, me chamo Gabriel Galani</h1>
 <h3 align="center">Apaixonado por engenharia e ciência de dados.</h3>
 
-- 🔭 Estou aberto a oportunidades de emprego **https://www.linkedin.com/in/gabriel-galani-303697158/**
+- 🔭 Atualmente trabalho na área de dados da Atos Brasil.**https://www.linkedin.com/in/gabriel-galani-303697158/**
 
 - 🌱 Estou aprendendo **Python, Sql e Machine Learning**
 
