@@ -9,7 +9,7 @@
 
 - 🏫 Currently I'm studying at the Institution **Alura** and **Impacta**
 
-- 💬 Ask me about **Power BI, Python, Sql, Excel and Data Science**
+- 💬 Ask me about **Power BI, Python, Sql, Excel, Data Science and Data engineering**
 
 - 📫 How to reach me **gabrielgalaniipt@gmail.com**
 
@@ -39,7 +39,7 @@
 
 - 🏫 Atualmente estudo na Instituição **Alura** e **Faculdade Impacta**
 
-- 💬 Me pergunte sobre **Power BI, Python, Sql, Excel e Data Science**
+- 💬 Me pergunte sobre **Power BI, Python, Sql, Excel, Data Science e Engenharia de dados**
 
 - 📫 Você pode me contatar através do e-mail **gabrielgalaniipt@gmail.com**
 
