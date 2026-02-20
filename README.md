@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Galani</h1>
-<h3 align="center">Data Engineer | Lakehouse Architect | Cloud Data Platforms</h3>
+<h3 align="center">Data Engineer | Databricks Certified | Azure Certified | Python | SQL | PySpark | Airflow</h3>
 
 ---
 
