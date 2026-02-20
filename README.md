@@ -15,7 +15,7 @@ Focused on reliability, scalability, and high-performance data processing.
 
 ## 🛠 Core Expertise
 
-- Data Architecture & Lakehouse Design  
+- Data Engineer
 - Distributed Processing (Apache Spark)  
 - Data Pipelines & Workflow Orchestration  
 - Cloud Data Platforms (Azure)  
